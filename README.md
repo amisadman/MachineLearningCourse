@@ -98,7 +98,7 @@ Welcome to my Machine Learning Journey repository! This is where I'll be documen
 |--------|-------------------|
 | Machine Learning Basics | ![_](https://img.shields.io/badge/Completed%20-%20green) |
 | Python Basics for Machine Learning | ![Completed](https://img.shields.io/badge/Completed%20-%20green) |
-| Python Libraries Tutorial for Machine Learning | ![Started](https://img.shields.io/badge/Started%20-%20%235D3FD3) |
+| Python Libraries Tutorial for Machine Learning | ![In Progress](https://img.shields.io/badge/In%20Progress%20-%20bright%20green) |
 | Data Collection & Processing | ![Not Started](https://img.shields.io/badge/Not%20Started%20-%20grey) |
 | Math Basics for Machine Learning | ![Not Started](https://img.shields.io/badge/Not%20Started%20-%20grey) |
 | Training the Machine Learning Models | ![Not Started](https://img.shields.io/badge/Not%20Started%20-%20grey) |
